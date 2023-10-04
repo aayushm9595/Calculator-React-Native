@@ -7,6 +7,12 @@ Setup Instructions
 3. To build the app specifically on a ios device choose your own team and automatically manage signing
 4. To run use commands **npm run ios** or npm **run android**
 
+TroubleShooting: 
+If you are having trouble with iOS, try to reinstall the dependencies by running:
+
+cd ios to navigate to the ios folder. <Br/>
+-- **bundle install** to install Bundler <Br/>
+-- **bundle exec pod install** <Br/>
 Assumptions : 
 all the operators have same precedence/priority
 
