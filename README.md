@@ -8,9 +8,13 @@ Setup Instructions
 4. To run use commands **npm run ios** or npm **run android**
 
 TroubleShooting: 
-If you are having trouble with iOS, try to reinstall the dependencies by running:
+If you are having trouble with iOS, try to reinstall the dependencies by running:<Br/>
+**cd ios** to navigate to the ios folder  <Br/>
 
-cd ios to navigate to the ios folder. <Br/>
+-- **pod install --repo-update** <Br/> <Br/>
+
+or <Br/> <Br/>
+
 -- **bundle install** to install Bundler <Br/>
 -- **bundle exec pod install** <Br/>
 Assumptions : 
