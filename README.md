@@ -20,4 +20,10 @@ or <Br/> <Br/>
 Assumptions : 
 all the operators have same precedence/priority
 
+<Br/> <Br/>
 
+
+Sample Screenshot landing page
+
+
+![Alt text](https://github.com/aayushm9595/Calculator-React-Native/blob/main/ScreenShot.png)
